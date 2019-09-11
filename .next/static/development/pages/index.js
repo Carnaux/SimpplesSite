@@ -13,23 +13,96 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles */ "./components/Bar/styles.js");
+var _jsxFileName = "/mnt/c/Users/alekt/Projetos/SimpplesSite/components/Bar/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 function Bar() {
-  return __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Wrapper"], null, __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
-    color: 0.05
-  }, __jsx("span", null, "Simples")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
-    color: 0.1
-  }, __jsx("span", null, "Pr\xE1tico")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
-    color: 0.15
-  }, __jsx("span", null, "Barato")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
-    color: 0.05
-  }, __jsx("span", null, "Util")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
-    color: 0.1
-  }, __jsx("span", null, "Acessivel")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
-    color: 0.15
-  }, __jsx("span", null, "Desempenho")));
+  return __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Wrapper"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
+    color: 0.05,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, __jsx("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Simples")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
+    color: 0.1,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, __jsx("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, "Pr\xE1tico")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
+    color: 0.15,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }, __jsx("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, "Barato")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
+    color: 0.05,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, __jsx("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }, "Util")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
+    color: 0.1,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 20
+    },
+    __self: this
+  }, __jsx("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, "Acessivel")), __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Box"], {
+    color: 0.15,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 23
+    },
+    __self: this
+  }, __jsx("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }, "Desempenho")));
 }
 
 /***/ }),
@@ -75,22 +148,77 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles */ "./components/Content/styles.js");
+var _jsxFileName = "/mnt/c/Users/alekt/Projetos/SimpplesSite/components/Content/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 function Content() {
-  return __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Container"], null, __jsx("div", {
-    className: "row"
-  }, __jsx("div", null, "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas?"), __jsx("div", {
-    className: "box"
+  return __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Container"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, __jsx("div", {
+    className: "row",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, __jsx("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas?"), __jsx("div", {
+    className: "box",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
   })), __jsx("div", {
-    className: "row"
-  }, __jsx("div", null, "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas?"), __jsx("div", {
-    className: "box"
+    className: "row",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, __jsx("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }, "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas?"), __jsx("div", {
+    className: "box",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
   })), __jsx("div", {
-    className: "row"
-  }, __jsx("div", null, "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas?"), __jsx("div", {
-    className: "box"
+    className: "row",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }, __jsx("div", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 26
+    },
+    __self: this
+  }, "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas? Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere rem dolorem, vel, illo deserunt, earum eos dolore ab aperiam nemo harum? Ab ipsum saepe, asperiores voluptates rerum et cum voluptas?"), __jsx("div", {
+    className: "box",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 31
+    },
+    __self: this
   })));
 }
 
@@ -128,11 +256,30 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _styles__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles */ "./components/Header/styles.js");
+var _jsxFileName = "/mnt/c/Users/alekt/Projetos/SimpplesSite/components/Header/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 function Header() {
-  return __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Container"], null, __jsx("h1", null, "SIMPPLES"), __jsx("span", null, "Sistema para Monitoramento de Paciente e  Preven\xE7\xE3o de Les\xE3o por PreSs\xE3o"));
+  return __jsx(_styles__WEBPACK_IMPORTED_MODULE_1__["Container"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7
+    },
+    __self: this
+  }, __jsx("h1", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8
+    },
+    __self: this
+  }, "SIMPPLES"), __jsx("span", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Sistema para Monitoramento de Paciente e  Preven\xE7\xE3o de Les\xE3o por PreSs\xE3o"));
 }
 
 /***/ }),
@@ -12545,6 +12692,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Header__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Header */ "./components/Header/index.js");
 /* harmony import */ var _components_Content__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/Content */ "./components/Content/index.js");
 /* harmony import */ var _components_Bar__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Bar */ "./components/Bar/index.js");
+var _jsxFileName = "/mnt/c/Users/alekt/Projetos/SimpplesSite/pages/index.js";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -12553,7 +12701,37 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
 var Home = function Home() {
-  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, null, __jsx("title", null, "Simpples")), __jsx(_components_Header__WEBPACK_IMPORTED_MODULE_2__["default"], null), __jsx(_components_Bar__WEBPACK_IMPORTED_MODULE_4__["default"], null), __jsx(_components_Content__WEBPACK_IMPORTED_MODULE_3__["default"], null));
+  return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(next_head__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 10
+    },
+    __self: this
+  }, __jsx("title", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 11
+    },
+    __self: this
+  }, "Simpples")), __jsx(_components_Header__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }), __jsx(_components_Bar__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 14
+    },
+    __self: this
+  }), __jsx(_components_Content__WEBPACK_IMPORTED_MODULE_3__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Home);
