@@ -1,20 +1,19 @@
 import React from 'react';
-import Link from 'next/link';
 import Head from 'next/head';
-import styled from 'styled-components';
+import Header from '../components/Header';
+import Content from '../components/Content';
+import Bar from '../components/Bar';
 
-const Title = styled.h1`
-  color: #069;
-  font-size: 40px;
-`
 const Home = () => {
   return (
-    <div>
+    <	>
       <Head>
         <title>Simpples</title>
       </Head>
-			<h1>Simpples Site</h1>
-    </div>
+			<Header />
+			<Bar />
+			<Content />
+    </>
   );
 }
 export default Home;

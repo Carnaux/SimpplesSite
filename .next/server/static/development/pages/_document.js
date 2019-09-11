@@ -1119,12 +1119,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var styled_components__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_components__WEBPACK_IMPORTED_MODULE_0__);
 
 const global = styled_components__WEBPACK_IMPORTED_MODULE_0__["createGlobalStyle"]`
-	@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
-
+	@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500&display=swap');
 	* {
 		margin: 0;
 		padding: 0;
+		outline: 0;
+		box-sizing: border-box;
 		font-family: 'Roboto', sans-serif;
+
 	}
 	body {
 		min-height: 100vh;
