@@ -13,9 +13,10 @@
     "styled-components": "^4.3.2"
   },
   "scripts": {
-    "dev": "node server.js",
-    "start": "NODE_ENV=production node server.js",
-    "build": "next build"
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js -p $PORT",
+    "dev": "NODE_ENV=development node server.js ",
+    "heroku-postbuild": "npm run build"
   },
   "devDependencies": {
     "babel-plugin-root-import": "^6.4.1",
